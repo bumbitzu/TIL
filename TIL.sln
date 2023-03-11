@@ -5,6 +5,8 @@ VisualStudioVersion = 17.5.33424.131
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Measure Time Complexity", "Measure Time Complexity\Measure Time Complexity.vcxproj", "{9E62DF1A-FA2D-4609-A8AD-48D07CAD3F55}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "logic_error", "logic_error\logic_error.vcxproj", "{9C652221-A222-462C-B073-8ED2962E840E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{9E62DF1A-FA2D-4609-A8AD-48D07CAD3F55}.Release|x64.Build.0 = Release|x64
 		{9E62DF1A-FA2D-4609-A8AD-48D07CAD3F55}.Release|x86.ActiveCfg = Release|Win32
 		{9E62DF1A-FA2D-4609-A8AD-48D07CAD3F55}.Release|x86.Build.0 = Release|Win32
+		{9C652221-A222-462C-B073-8ED2962E840E}.Debug|x64.ActiveCfg = Debug|x64
+		{9C652221-A222-462C-B073-8ED2962E840E}.Debug|x64.Build.0 = Debug|x64
+		{9C652221-A222-462C-B073-8ED2962E840E}.Debug|x86.ActiveCfg = Debug|Win32
+		{9C652221-A222-462C-B073-8ED2962E840E}.Debug|x86.Build.0 = Debug|Win32
+		{9C652221-A222-462C-B073-8ED2962E840E}.Release|x64.ActiveCfg = Release|x64
+		{9C652221-A222-462C-B073-8ED2962E840E}.Release|x64.Build.0 = Release|x64
+		{9C652221-A222-462C-B073-8ED2962E840E}.Release|x86.ActiveCfg = Release|Win32
+		{9C652221-A222-462C-B073-8ED2962E840E}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
