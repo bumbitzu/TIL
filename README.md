@@ -3,3 +3,4 @@
 | Today I Learn  |
 | ------------- |
 | [Measure Time Complexity < C++ > ](./Measure%20Time%20Complexity/Source.cpp) |
+| [std::logic_error < C++ > ](./logic_error/Source.cpp) |
