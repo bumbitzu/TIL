@@ -9,6 +9,6 @@ int main()
 
     auto duration = std::chrono::duration_cast<std::chrono::microseconds>(stop - start); // Calculate the duration in microseconds
 
-    std::cout << "\nTime taken by algorithm: " << duration.count() << " microseconds" << std::endl; // Print duration
+    std::cout << "\nTime taken by algorithm: " << duration.count() << " microseconds" << std::endl;
 }
 
